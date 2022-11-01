@@ -11,4 +11,6 @@ public class controlle
     protected string sujet;
     protected float note;
     protected int Etid;
+
+    
 }

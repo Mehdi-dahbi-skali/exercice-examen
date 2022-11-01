@@ -8,7 +8,7 @@ namespace exercice_repence
 {
      public class repence
     {
-        
+        private string sure;
     }
             
 }
