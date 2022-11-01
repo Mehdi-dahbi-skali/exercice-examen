@@ -10,6 +10,7 @@ namespace exercice_Etudiant
     {
         private string Name;
         private int id;
-        
+        private float note;
+
     }
 }
